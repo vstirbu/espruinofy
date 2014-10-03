@@ -1,0 +1,22 @@
+{
+  "name": "espruinofy",
+  "version": "0.1.0",
+  "description": "Browserify plugin for creating Espruino runnable bundles",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vstirbu/espruinofy.git"
+  },
+  "keywords": [
+    "browserify-tool",
+    "espruino"
+  ],
+  "author": "Vlad Stirbu <vstirbu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vstirbu/espruinofy/issues"
+  },
+  "homepage": "https://github.com/vstirbu/espruinofy"
+}
