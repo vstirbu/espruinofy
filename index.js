@@ -14,8 +14,8 @@ module.exports = function (b, opts) {
   };
 
   estream._flush = function () {
-    estream.push('} onInit();');
-  }
+    estream.push('}');
+  };
 
   b.pipeline.push(estream);
-}
+};
