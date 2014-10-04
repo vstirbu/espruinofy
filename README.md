@@ -15,3 +15,7 @@ Don't forget to ```-ignore``` the Espruino specific packages:
 ```sh
 browserify -p espruinofy yourApp.js > bundle.js
 ```
+
+Then load the resulting bundle in Espruino's WebIDE and push it to the device.
+
+Restart the device and you are good to go...
